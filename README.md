@@ -13,5 +13,5 @@
 
 <br>
 <h3 align="left">About</h3>
-<p>As a computer science student, I am committed to exploring new skills and specializations within the field of computer science. My passion for technology has driven me to become a polyglot programmer with expertise in multiple programming languages, including <b>Python, C lan, Java, SQL and Web development</b>.<br>
+<p>As a computer science student, I am committed to exploring new skills and specializations within the field of computer science. My passion for technology has driven me to become a polyglot programmer with expertise in multiple programming languages, including <b>Python, C lan, Java, SQL and Web development</b>.<br><br>
 In addition to my programming skills, I am also an aspiring Pentesting Engineer. I am intrigued by the challenge of identifying and addressing potential security vulnerabilities in computer systems, and I am continuously honing my skills in this area.</p>
