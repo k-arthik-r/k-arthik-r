@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/drive/folders/1k4WG7GK9zuilEmEzfRaw7KKj9cvKwAkz)](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karthik R</h1>
 <h3 align="center">An Aspiring Pentesting Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
