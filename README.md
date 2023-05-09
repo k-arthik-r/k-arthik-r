@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm Karthik R</h1>
+
 ![MasterHead](https://github.com/k-arthik-r/k-arthik-r/assets/111432615/628b9187-2283-4b5b-a07b-a7e264340129)
 
-<h1 align="center">Hi 👋, I'm Karthik R</h1>
 <h3 align="center">An Aspiring Pentesting Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/k-arthik-r/k-arthik-r/assets/111432615/b56a5c7f-4f26-448a-bee8-2e775f1bb7c8">
 
