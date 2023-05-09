@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/k-arthik-r/k-arthik-r/assets/111432615/afb7c43e-3ae1-4009-94f0-df7ccb0fc04c)
+![MasterHead](https://github.com/k-arthik-r/k-arthik-r/assets/111432615/628b9187-2283-4b5b-a07b-a7e264340129)
 
 <h1 align="center">Hi 👋, I'm Karthik R</h1>
 <h3 align="center">An Aspiring Pentesting Engineer</h3>
