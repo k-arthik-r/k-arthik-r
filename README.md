@@ -140,20 +140,29 @@ You can Find My Works Here &nbsp; &nbsp;
 
 <a href="https://www.linkedin.com/in/k-arthik" alt="LinkedIn">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        
+<br>
 
 <a href="https://mail.google.com/mail/u/0/?to=voidex.developer@gmail.com&fs=1&tf=cm" alt="Mail">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<br>
+
 <a href="https://twitter.com/r_karthik__?t=qCYUBHYTrQUKm36LYTE7zw&s=08" alt="Twitter">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 
+<br>
+
 <a href="https://t.me/karthik_r_gowda" alt="Telegram">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  
+
+<br>
+
 <a href="https://replit.com/@Karthik-R-Gowda" alt="Replit">
         <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /></a>
-        
+
+<br>
+
 <a href="https://drive.google.com/file/d/14PmV-X-qTj5ZptcBfDYgs2BixPIH7Clw/view?usp=drivesdk" alt="Discord">
        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-       
- 
+
