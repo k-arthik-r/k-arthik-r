@@ -126,14 +126,34 @@ In addition to my programming skills, I am also an aspiring Pentesting Engineer.
 <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
 
+<br><br>
+
 <h3>Projects</h3>
 
 You can Find My Works Here &nbsp; &nbsp;
 <a href="https://github.com/k-arthik-r?tab=repositories" alt="Github">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+<br><br>
 
+<h3>Connect With Me:</h3>
 
+<a href="https://www.linkedin.com/in/k-arthik" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<a href="https://mail.google.com/mail/u/0/?to=voidex.developer@gmail.com&fs=1&tf=cm" alt="Mail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<a href="https://twitter.com/r_karthik__?t=qCYUBHYTrQUKm36LYTE7zw&s=08" alt="Twitter">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 
+<a href="https://t.me/karthik_r_gowda" alt="Telegram">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  
+<a href="https://replit.com/@Karthik-R-Gowda" alt="Replit">
+        <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /></a>
+        
+<a href="https://drive.google.com/file/d/14PmV-X-qTj5ZptcBfDYgs2BixPIH7Clw/view?usp=drivesdk" alt="Discord">
+       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+       
+ 
