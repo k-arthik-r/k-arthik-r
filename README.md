@@ -126,10 +126,13 @@ In addition to my programming skills, I am also an aspiring Pentesting Engineer.
 <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
 
-<h3>Projects</h>
-You can Find My Works Here
-<a href="<LINK>" alt="<TEXT>">
-        <img src="<SOURCE>" /></a>
+<h3>Projects</h3>
+
+You can Find My Works Here &nbsp; &nbsp;
+<a href="https://github.com/k-arthik-r?tab=repositories" alt="Github">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+
 
 
 
