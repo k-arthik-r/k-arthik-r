@@ -163,7 +163,8 @@ In addition to my programming skills, I am also an aspiring Pentesting Engineer.
 
 <h3>Projects</h3>
 
-You can Find My Works Here &nbsp; &nbsp;
+You can Find My Works Here:
+<br><br>
 <a href="https://github.com/k-arthik-r?tab=repositories" alt="Github">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 
