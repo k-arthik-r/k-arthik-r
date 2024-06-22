@@ -8,7 +8,7 @@
 <h2 align="center">Computer Science and Engineering Student | Polyglot Programmer | Aspiring Pentesting Engineer</h2>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/k-arthik-r/k-arthik-r/assets/111432615/b56a5c7f-4f26-448a-bee8-2e775f1bb7c8">
+<img align="right" alt="Coding" width="400" src="https://github.com/k-arthik-r/k-arthik-r/assets/111432615/d1282930-5f93-42a2-8622-7e6a147cd92e">
 
 
 <br>
