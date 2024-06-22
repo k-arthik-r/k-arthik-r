@@ -12,6 +12,9 @@
 <img align="right" alt="Coding" width="280" padding="100px" src="https://github.com/k-arthik-r/k-arthik-r/assets/111432615/d1282930-5f93-42a2-8622-7e6a147cd92e">
 
 <h3 align="left">About</h3>
-<p>As a computer science student, I am committed to exploring new skills and specializations within the field of computer science. My passion for technology has driven me to become a polyglot programmer with expertise in multiple programming languages, including <b>Python, C lan, Java, SQL and Web development</b>.<br><br>
-In addition to my programming skills, I am also an aspiring Pentesting Engineer. I am intrigued by the challenge of identifying and addressing potential security vulnerabilities in computer systems, and I am continuously honing my skills in this area.</p>
+<p>Aspiring Computer Science and Engineering professionals with a strong foundation in software development, machine learning, and cloud computing. Proficient in advanced programming languages such as <b>C++</b> and <b>Python</b>, and experienced in <b>web development</b> and <b>AI technologies</b>. 
+
+<br>
+
+Skilled in leveraging tools and frameworks for machine learning, including Generative <b>AI, HuggingFace, and CNN</b>. Adept at cloud computing with practical knowledge of <b>Microsoft Azure</b> and <b>AWS</b>. A motivated team player with excellent communication skills, known for taking initiative and delivering results. Passionate about NSS, actively engaged in event organizing, and an avid chess player.</p>
 <br>
