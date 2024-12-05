@@ -19,7 +19,5 @@
 #" Hi, I'm Karthik, a self-proclaimed coding wizard with a knack for turning coffee into code (and sometimes, even functional code). By day, I'm a Software Engineer, diving into Artificial Intelligence, Machine Learning, Cloud Technology, and Computer Networks. By night, I’m probably still coding, but with a side of snacks and a playlist that makes my keyboard sound like it’s part of a band.
 
 I’m a polyglot programmer, which means I speak many programming languages — not just JavaScript or Python, but also "badly in C++" and "confused in SQL." I love learning new things (when it doesn’t involve debugging a 3AM error), and I approach challenges like a game of Tetris: sometimes things don’t fit, but eventually, they will, and I’ll be singing when it all falls into place.
-
-If you're looking for someone who can combine technical expertise with a dash of humor and a heap of curiosity, I'm your person. Let’s code, break stuff, fix it, and repeat!"
 </i></p>
 <br>
