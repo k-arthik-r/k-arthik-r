@@ -2,11 +2,11 @@
 
 -------------------------------------------
 
+
 ![MasterHead](https://github.com/k-arthik-r/k-arthik-r/assets/111432615/628b9187-2283-4b5b-a07b-a7e264340129)
 
--------------------------------------------
 
-<h2 align="center">Software Engineer | Polyglot Programmer </h2>
+-------------------------------------------
 
 <h2 align="center">Artificial Intellegince and Machine Learning | Cloud Technology | Computer Networks and Operating Systems</h2>
 
