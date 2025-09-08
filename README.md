@@ -8,7 +8,7 @@
 
 -------------------------------------------
 
-<h2 align="center">Artificial Intellegince and Machine Learning | Cloud Technology | Computer Networks and Operating Systems</h2>
+<h2 align="center">Artificial Intellegince and Machine Learning | Cloud Technology </h2>
 
 <br><br>
 
